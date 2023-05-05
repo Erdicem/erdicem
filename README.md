@@ -1,7 +1,7 @@
 ### Hi, I'm Erdicem 👋
 
-Passionate software engineer with a particular focus on Apple Platforms – iOS/macOS. You can find me creating videos on my blog, contributing to Open Source here on Github.
-<a href="https://erdicemyucesan.blogspot.com/"> name given to the link </a>
+Passionate software engineer with a particular focus on Apple Platforms – iOS/macOS. You can find me creating videos on <a href="https://erdicemyucesan.blogspot.com/">my blog</a>
+, contributing to Open Source here on Github.
 
 
 * 🔭 Currently working on all things Apple – iOS, macOS, watchOS, tvOS
